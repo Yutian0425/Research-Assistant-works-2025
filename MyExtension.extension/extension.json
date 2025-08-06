@@ -1,0 +1,14 @@
+{
+    "builtin": "True",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "MyExtension",
+    "description": "This is a simple pyRevit extension for exporting wall data to Excel.",
+    "author": "Yutian Yi",
+    "author_profile": "https://www.instagram.com/annayeeisme/",
+    "url": "https://github.com/Yutian0425/Research-Assistant-works-2025/releases/download/v1.0/MyExtension.extension.zip",
+    "website": "https://www.instagram.com/annayeeisme/",
+    "image": "",
+    "dependencies": []
+}
